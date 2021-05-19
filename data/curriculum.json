@@ -1,0 +1,67 @@
+{
+  "name":"Jonas Lima Cavalcante",
+  "occupation":"Desenvolvedor - Estudante",
+  "abstract":"Licenciando em Computação e atuando como desenvolvedor web front-end.<br><br>Trabalhar e estudar o que gosta, não tem preço",
+  "skills":[
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "MySQL"
+  ],
+  "studying": [
+    "React",
+    "Node.js",
+    "TypeScript"
+  ],
+  "contacts":{
+    "email":"jonasliimac@gmail.com",
+    "github":"https://github.com/eujonas"
+  },
+  "professionalHistory":[
+    {
+      "occupation":"Desenvolvedor Web",
+      "organization":"Freelancer",
+      "date":"2021-Atualmente",
+      "description":"Desenvolvendo aplicações web, sistemas de controle financeiro, Supermercado e afins."
+    },
+    {
+      "occupation":"Operador de Caixa",
+      "organization":"Lotérica O PENHA",
+      "date":"2019",
+      "description":"Terminal Linux - SUPORTE"
+    },
+    {
+      "occupation":"Atendente e Técnico",
+      "organization":"Já Cópias - Gráfica",
+      "date":"2018",
+      "description":"Atendimento ao cliente, Desing e Técnico em Impressoras"
+    }
+  ],
+  "academicHistory":[
+    {
+      "name":"Licenciatura em Computação",
+      "institution":"Universidade Estadual do Ceará",
+      "date":"2018-Atualmente",
+      "description":"Curso de licenciatura em Computação, atualmente no 6° semestre, com aproximadamente 70% de disciplinas aprovadas"
+    },
+    {
+      "name":"Técnico em Informática",
+      "institution":"EEEP Professor Plácido Aderaldo Castelo",
+      "date":"2015-2017",
+      "description":"Concluí no ano de 2017, com aprovação nota máxima no Projeto Social/TCC e Estágio Supervisionado"
+    }
+  ],
+  "courses":[
+    {
+      "name":"Carregando",
+      "institution":"..."
+    }
+  ],
+  "workshops":[
+    {
+      "name":"Maratona Discover #01",
+      "institution":"Rocketseat",
+      "url":"https://github.com/eujonas/ProjetoFinal-MeuFinanceiro"
+    }
+  ]
+}

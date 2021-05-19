@@ -1,0 +1,14 @@
+{
+  "projects":[
+    {
+      "cover": "./assets/images/meufinanceiro.png",
+      "name":"Meu Financeiro",
+      "description":"Aplicação web de controle de finanças que realiza: Listagem, cadastro, edição e remoção de transações, atualização dos valores de entrada, saída e total em tempo real.",
+      "status":"completed",
+      "details":"",
+      "url":"https://eujonas.github.io/ProjetoFinal-MeuFinanceiro/",
+      "technologies":["JavaScript", "HTML5", "CSS3"],
+      "tags":["profissional", "dinâmico", "web", "full stack"]
+    }
+  ]
+}
